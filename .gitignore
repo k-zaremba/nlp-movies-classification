@@ -1,3 +1,4 @@
 resources/
 env/
 dataset/
+./word2vec.model
