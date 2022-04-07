@@ -1,0 +1,12 @@
+numpy
+pandas
+spacy
+ipykernel
+nltk
+gensim
+annoy
+pystempel
+morfeusz2
+matplotlib
+sklearn
+tensorflow
