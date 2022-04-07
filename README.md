@@ -1,4 +1,4 @@
-## Text classification using NLP with Word2Vec & Tensorflow
+# Text classification using NLP with Word2Vec & Tensorflow
 
 ➡️ This project is focused on developing Neural Network able to classify a movie's genre based on its description. [language: English]
 
@@ -8,7 +8,7 @@
 
 📝 Later on, the NN classifying Polish corpus will be added to the project repo
 
-### To run project
+## To run project
 
 1. Navigate to your project directory and create new virtual environment with 
 > python -m venv ./env
