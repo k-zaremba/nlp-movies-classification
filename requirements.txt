@@ -10,3 +10,4 @@ morfeusz2
 matplotlib
 sklearn
 tensorflow
+seaborn
